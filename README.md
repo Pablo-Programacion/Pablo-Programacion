@@ -24,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pablo-programacion&show_icons=true&locale=en" alt="pablo-programacion" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pablo-programacion&" alt="pablo-programacion" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablo-programacion&show_icons=true&locale=en&layout=compact" alt="pablo-programacion" /></p>
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
